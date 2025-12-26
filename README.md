@@ -10,9 +10,9 @@ Unlike standard ViT models that use $224 \times 224$ images, this version is opt
 
   Modular Architecture: Clean separation between Patch Embedding, Transformer Encoder, and MLP heads.
   
-  Optimized for Small Data: Custom patch sizing ($P=4$) to ensure $64$ tokens per image.Advanced 
+  Optimized for Small Data: Custom patch sizing ($P=4$) to ensure $64$ tokens per image.
   
-  Training Pipeline: Includes OneCycleLR scheduling, AdamW optimization, and dataset-specific normalization.
+  Advanced Training Pipeline: Includes OneCycleLR scheduling, AdamW optimization, and dataset-specific normalization.
   
   Production-Ready: Script for manual "side-loading" of CIFAR-10 to bypass proxy issues.
 
