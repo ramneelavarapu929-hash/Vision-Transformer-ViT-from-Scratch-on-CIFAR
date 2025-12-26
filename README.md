@@ -51,7 +51,7 @@ Unlike standard ViT models that use $224 \times 224$ images, this version is opt
   
   Patch Size: $4 \times 4$Embedding
   
-  Dim: $192$ (ViT-Tiny)
+  Dim: $256$
   
   Batch Size: $128$
   
