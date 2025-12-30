@@ -1,4 +1,4 @@
-**Vision Transformer (ViT) from Scratch on CIFAR-10**
+# Vision Transformer (ViT) from Scratch on CIFAR-10
 
 This repository contains a modular implementation of a Vision Transformer (ViT) designed specifically for the CIFAR-10 dataset. 
 
