@@ -18,7 +18,7 @@ Unlike standard ViT models that use $224 \times 224$ images, this version is opt
 
 
 **Project Structure**
-├── data/                  # Local CIFAR-10 binaries
+```├── data/                  # Local CIFAR-10 binaries
 
 ├── src/
 
@@ -41,6 +41,7 @@ Unlike standard ViT models that use $224 \times 224$ images, this version is opt
 ├── checkpoints/
 
      ├── vit_cifar10_weights.pth # Saved model state_dict
+```
      
 
 
